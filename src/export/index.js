@@ -4,15 +4,17 @@ class Rectangle {
     this.width = width;
   }
 
-  // Getter
   get area() {
     return this.calcArea();
   }
 
-  // Method
   calcArea() {
     return this.height * this.width;
   }
 }
 
-export default Rectangle;
+function Animal(name) {
+  this.name = name;
+}
+
+export { Animal, Rectangle };

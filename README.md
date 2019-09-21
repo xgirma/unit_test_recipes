@@ -1,2 +1,9 @@
-# unit_testing_recipes-
-A collection of unit testing patterns. 
+# Unit Testing Recipes
+
+A collection of JavaScript unit testing recipes. 
+
+## Includes
+
+    Export
+        Class
+        Function
