@@ -1,0 +1,45 @@
+{
+  "name": "unit_testing_recipes",
+  "version": "1.0.0",
+  "description": "A collection of unit testing recipes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "eslint": "npx eslint --ext .js ./ --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xgirma/unit_testing_recipes-.git"
+  },
+  "keywords": [
+    "Javascript",
+    "unit testing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xgirma/unit_testing_recipes-/issues"
+  },
+  "homepage": "https://github.com/xgirma/unit_testing_recipes-#readme",
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.5.5",
+    "@babel/preset-env": "^7.6.0",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^24.9.0",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^6.4.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jest": "^22.17.0",
+    "jest-cli": "^24.9.0",
+    "rimraf": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "jest": {
+    "transform": {
+      ".*": "<rootDir>/node_modules/babel-jest"
+    }
+  }
+}
