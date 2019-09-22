@@ -11,4 +11,4 @@ A collection of JavaScript unit testing recipes.
         class
         function
         object
-        premitive
+        primitive
