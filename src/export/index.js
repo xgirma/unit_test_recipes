@@ -26,7 +26,7 @@ const graph = {
   },
 
   draw() {
-    console.log("From graph draw function");
+    // ...
   }
 };
 
