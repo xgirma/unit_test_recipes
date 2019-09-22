@@ -3,8 +3,8 @@ import Rectangle from "../../src/class";
 describe("Class", () => {
   it("should instantiate", () => {
     const r = new Rectangle();
-    expect(!!r).toEqual(true, "instantiate exist");
-    expect(r instanceof Rectangle).toBe(true, "instantiate exist");
+    expect(!!r).toEqual(true, "instance exist");
+    expect(r instanceof Rectangle).toBe(true, "instance exist");
   });
 
   it("should have constructor", () => {
