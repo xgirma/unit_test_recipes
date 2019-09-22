@@ -4,6 +4,11 @@ A collection of JavaScript unit testing recipes.
 
 ## Includes
 
+    Class
+        instance
+        constructor
     Export
-        Class
-        Function
+        class
+        function
+        object
+        premitive
