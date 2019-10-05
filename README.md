@@ -18,3 +18,4 @@ A collection of JavaScript unit testing recipes.
     Jasmine
         commonjs
         ES6 module
+        TypeScript
