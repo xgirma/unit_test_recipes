@@ -1,0 +1,16 @@
+{
+  "name": "jasmine-conf",
+  "version": "1.0.0",
+  "description": "Jasmine config with commonjs",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "./node_modules/.bin/jasmine init",
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
