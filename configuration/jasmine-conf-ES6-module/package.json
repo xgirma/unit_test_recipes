@@ -1,16 +1,20 @@
 {
-  "name": "jasmine-conf",
+  "name": "jasmine-conf-es6-module",
   "version": "1.0.0",
-  "description": "Jasmine config with commonjs",
+  "description": "Jasmine config with ES6 modules",
   "main": "index.js",
   "scripts": {
     "prepare": "./node_modules/.bin/jasmine init",
+    "build": "./node_modules/.bin/babel *.js -d spec",
     "test": "jasmine"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@babel/cli": "^7.6.2",
+    "@babel/core": "^7.6.2",
     "jasmine": "^3.5.0"
-  }
+  },
+  "type": "module"
 }
