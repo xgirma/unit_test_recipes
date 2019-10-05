@@ -4,7 +4,7 @@ Preparing jasmine, _jasmine init_ creates a spec folder with Jasmine config _jas
     
         npm run prepare
         
-Run 
+Run the test
 
         npm run test
         
