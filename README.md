@@ -12,3 +12,9 @@ A collection of JavaScript unit testing recipes.
         function
         object
         primitive
+        
+## Configuration
+
+    Jasmine
+        commonjs
+        ES6 module
