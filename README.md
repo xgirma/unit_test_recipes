@@ -21,3 +21,4 @@ A collection of JavaScript unit testing recipes.
         TypeScript
     Karma
         commonjs
+        ES6 module

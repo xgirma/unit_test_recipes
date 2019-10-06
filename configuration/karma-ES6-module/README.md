@@ -1,4 +1,4 @@
-# Setting up test with Jasmine: ES6 Module
+# Setting up test with Karma: ES6 Module
 
 Preparing jasmine, _jasmine init_ creates a spec folder with Jasmine config _jasmine.json_. 
     
