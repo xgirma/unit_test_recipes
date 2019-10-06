@@ -1,5 +1,5 @@
 {
-  "name": "jasmine-conf",
+  "name": "jasmine-commonjs",
   "version": "1.0.0",
   "description": "Jasmine config with commonjs",
   "main": "index.js",
