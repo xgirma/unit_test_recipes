@@ -1,7 +1,7 @@
 {
   "name": "jasmine-typescript",
   "version": "1.0.0",
-  "description": "",
+  "description": "Setting up test with Jasmine: Typescript",
   "main": "index.js",
   "scripts": {
     "prepare": "jasmine init",

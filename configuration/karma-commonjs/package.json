@@ -1,7 +1,7 @@
 {
   "name": "karma-commonjs",
   "version": "1.0.0",
-  "description": "Unit T",
+  "description": "Setting up test with Karma: commonjs",
   "main": "index.js",
   "scripts": {
     "test": "karma start karma.conf.js"

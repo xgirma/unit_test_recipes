@@ -4,8 +4,8 @@
   "description": "A collection of unit testing recipes.",
   "main": "index.js",
   "scripts": {
-    "test": "jest --verbose",
-    "eslint": "npx eslint --ext .js ./ --fix"
+    "eslint": "npx eslint --ext .js ./ --fix",
+    "test": "jest --verbose"
   },
   "repository": {
     "type": "git",

@@ -17,6 +17,7 @@
         "sourceType": "module"
     },
     "rules": {
-        "strict": 0
+        "strict": 0,
+        "func-names": 0
     }
 }

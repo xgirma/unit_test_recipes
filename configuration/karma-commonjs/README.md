@@ -1,4 +1,4 @@
-# # Setting up test with Karma: commonjs
+# Setting up test with Karma: commonjs
 
 Run the test
 
