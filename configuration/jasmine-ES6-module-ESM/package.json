@@ -1,0 +1,19 @@
+{
+  "name": "jasmine-conf-es6-module-esm",
+  "version": "1.0.0",
+  "description": "Jasmine config with ES6 modules and ESM",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "./node_modules/.bin/jasmine init",
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "jasmine": "^3.5.0",
+    "rimraf": "^3.0.0"
+  },
+  "type": "module"
+}
