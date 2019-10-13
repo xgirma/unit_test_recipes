@@ -1,4 +1,4 @@
-# Unit Testing Recipes
+# Unit test Recipes
 
 A collection of JavaScript unit testing recipes. 
 
