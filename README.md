@@ -17,7 +17,8 @@ A collection of JavaScript unit testing recipes.
 
     Jasmine
         commonjs
-        ES6 module
+        ES6 module - babel
+        ES6 module - ESM
         TypeScript
     Karma
         commonjs
