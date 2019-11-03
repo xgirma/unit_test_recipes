@@ -16,7 +16,7 @@
     "@types/node": "12.12.5",
     "browserify": "16.5.0",
     "jasmine": "3.5.0",
-    "karma": "4.3.0",
+    "karma": "4.4.1",
     "karma-browserify": "6.1.0",
     "karma-chrome-launcher": "3.1.0",
     "karma-jasmine": "2.0.1",
