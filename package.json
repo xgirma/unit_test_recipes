@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/xgirma/unit_testing_recipes-#readme",
   "devDependencies": {
-    "@babel/plugin-proposal-class-properties": "7.5.5",
-    "@babel/preset-env": "7.6.3",
+    "@babel/plugin-proposal-class-properties": "7.7.0",
+    "@babel/preset-env": "7.7.1",
     "@types/node": "12.12.6",
     "babel-core": "6.26.3",
     "babel-jest": "24.9.0",
