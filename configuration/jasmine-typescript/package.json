@@ -17,6 +17,6 @@
     "@types/node": "12.12.21",
     "jasmine": "3.5.0",
     "rimraf": "3.0.0",
-    "typescript": "3.7.3"
+    "typescript": "3.7.4"
   }
 }
