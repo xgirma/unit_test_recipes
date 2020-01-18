@@ -12,15 +12,3 @@ A collection of JavaScript unit testing recipes.
         function
         object
         primitive
-        
-## Configuration
-
-    Jasmine
-        commonjs
-        ES6 module - babel
-        ES6 module - ESM
-        TypeScript
-    Karma
-        commonjs
-        ES6 module
-        TypeScript
