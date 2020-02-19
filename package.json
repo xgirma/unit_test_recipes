@@ -24,7 +24,7 @@
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "7.8.3",
     "@babel/preset-env": "7.8.4",
-    "@types/node": "12.12.27",
+    "@types/node": "12.12.28",
     "babel-core": "6.26.3",
     "babel-jest": "25.1.0",
     "babel-preset-env": "1.7.0",
